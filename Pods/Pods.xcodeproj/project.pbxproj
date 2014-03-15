@@ -1,0 +1,522 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0F2AE0B877354DE3B05217F6 /* NSSet+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 85E10AF79E704CDE96A2FBDB /* NSSet+ObjectiveSugar.h */; };
+		1A66C8CAA8984F008FB9DDF1 /* ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 90D43167E30549638AD18DFB /* ObjectiveSugar.h */; };
+		2B038F2FC66B4C12A9607DD2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B57DF12B5BB44479F94CD6D /* Foundation.framework */; };
+		457AC4E7A9414B0F9CC48004 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B57DF12B5BB44479F94CD6D /* Foundation.framework */; };
+		5EB772E2CB4D49A4BBAF392B /* NSDictionary+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2BA74461DD4257A4FCE852 /* NSDictionary+ObjectiveSugar.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		61EF1A110FE645B29861C11D /* NSArray+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = F53C4E3E809E4FCC83C6E83A /* NSArray+ObjectiveSugar.h */; };
+		6A5289B941664BCCB11CA7B1 /* NSMutableArray+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = CB741A32F4624D5E990E4D7F /* NSMutableArray+ObjectiveSugar.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		6EDC1122176C45D4A085E884 /* NSNumber+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F8A87A8172458FA4E4214A /* NSNumber+ObjectiveSugar.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		8039E2A9A35A4D7B9E3A0767 /* NSDictionary+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = CBC843B658404EAD89993167 /* NSDictionary+ObjectiveSugar.h */; };
+		8206102AC1524F668AC390C8 /* Pods-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCC6CDFA4864B198A98A58B /* Pods-dummy.m */; };
+		866B097499DD4EA58BC13B06 /* NSSet+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 131508574702467B8BDE0EEC /* NSSet+ObjectiveSugar.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		9319B0A23D4D434BBBDAD026 /* NSString+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4FC19E736C4448B785C7E165 /* NSString+ObjectiveSugar.h */; };
+		934DAA9E92D04BEF9C3E00A5 /* NSArray+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = B64D5BDA9B7946D48D06A12B /* NSArray+ObjectiveSugar.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		98E701E920544315A50B31F1 /* NSMutableArray+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = B8B4D5876A434BA18601310F /* NSMutableArray+ObjectiveSugar.h */; };
+		A5CA9D6351054BD49FAEA3C0 /* libPods-ObjectiveSugar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 721CD4D9C4E542FDAB99A787 /* libPods-ObjectiveSugar.a */; };
+		C11F8238B16241DC98FB3935 /* NSString+ObjectiveSugar.m in Sources */ = {isa = PBXBuildFile; fileRef = 98FD431AC5884425818750E9 /* NSString+ObjectiveSugar.m */; settings = {COMPILER_FLAGS = "-fobjc-arc -DOS_OBJECT_USE_OBJC=0"; }; };
+		C3F8A8882EC541B7947EF4BA /* Pods-ObjectiveSugar-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 34764F4B8BDC4A9A8579D025 /* Pods-ObjectiveSugar-dummy.m */; };
+		C65796794EA84A97869DA301 /* NSNumber+ObjectiveSugar.h in Headers */ = {isa = PBXBuildFile; fileRef = 638AE09779064694AECA62BF /* NSNumber+ObjectiveSugar.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		67B40972D70148AA8725C162 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9249543A28C34C30B7E4660A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7AC9DF02C7A04293B0C9FDD4;
+			remoteInfo = "Pods-ObjectiveSugar";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		07F8A87A8172458FA4E4214A /* NSNumber+ObjectiveSugar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSNumber+ObjectiveSugar.m"; path = "Classes/NSNumber+ObjectiveSugar.m"; sourceTree = "<group>"; };
+		0B57DF12B5BB44479F94CD6D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		131508574702467B8BDE0EEC /* NSSet+ObjectiveSugar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSSet+ObjectiveSugar.m"; path = "Classes/NSSet+ObjectiveSugar.m"; sourceTree = "<group>"; };
+		2F5F67EE1FA242C6B5929535 /* Pods-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-resources.sh"; sourceTree = "<group>"; };
+		34764F4B8BDC4A9A8579D025 /* Pods-ObjectiveSugar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ObjectiveSugar-dummy.m"; sourceTree = "<group>"; };
+		3A4B70EA622A4509B69A5BF6 /* Pods-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3DCC6CDFA4864B198A98A58B /* Pods-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-dummy.m"; sourceTree = "<group>"; };
+		3F34BF58FCB3467EA5A2F513 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FC19E736C4448B785C7E165 /* NSString+ObjectiveSugar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+ObjectiveSugar.h"; path = "Classes/NSString+ObjectiveSugar.h"; sourceTree = "<group>"; };
+		61E431BAB8B84C6AAE4E59BA /* Pods-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-acknowledgements.plist"; sourceTree = "<group>"; };
+		62CA533EBE1241D58B59DD1B /* Pods-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-environment.h"; sourceTree = "<group>"; };
+		638AE09779064694AECA62BF /* NSNumber+ObjectiveSugar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSNumber+ObjectiveSugar.h"; path = "Classes/NSNumber+ObjectiveSugar.h"; sourceTree = "<group>"; };
+		721CD4D9C4E542FDAB99A787 /* libPods-ObjectiveSugar.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ObjectiveSugar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85E10AF79E704CDE96A2FBDB /* NSSet+ObjectiveSugar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSSet+ObjectiveSugar.h"; path = "Classes/NSSet+ObjectiveSugar.h"; sourceTree = "<group>"; };
+		8CA0486673F948D1B2F2B323 /* Pods-ObjectiveSugar-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ObjectiveSugar-Private.xcconfig"; sourceTree = "<group>"; };
+		90D43167E30549638AD18DFB /* ObjectiveSugar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ObjectiveSugar.h; path = Classes/ObjectiveSugar.h; sourceTree = "<group>"; };
+		98FD431AC5884425818750E9 /* NSString+ObjectiveSugar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+ObjectiveSugar.m"; path = "Classes/NSString+ObjectiveSugar.m"; sourceTree = "<group>"; };
+		A8E7F90403714AF8B8D12DB5 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Pods.xcconfig; sourceTree = "<group>"; };
+		B64D5BDA9B7946D48D06A12B /* NSArray+ObjectiveSugar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+ObjectiveSugar.m"; path = "Classes/NSArray+ObjectiveSugar.m"; sourceTree = "<group>"; };
+		B8B4D5876A434BA18601310F /* NSMutableArray+ObjectiveSugar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableArray+ObjectiveSugar.h"; path = "Classes/NSMutableArray+ObjectiveSugar.h"; sourceTree = "<group>"; };
+		C8A97023FFAE4D10AE021DB0 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		CB741A32F4624D5E990E4D7F /* NSMutableArray+ObjectiveSugar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMutableArray+ObjectiveSugar.m"; path = "Classes/NSMutableArray+ObjectiveSugar.m"; sourceTree = "<group>"; };
+		CBC843B658404EAD89993167 /* NSDictionary+ObjectiveSugar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDictionary+ObjectiveSugar.h"; path = "Classes/NSDictionary+ObjectiveSugar.h"; sourceTree = "<group>"; };
+		D042EB63A3B147C2A3F1E527 /* Pods-ObjectiveSugar.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ObjectiveSugar.xcconfig"; sourceTree = "<group>"; };
+		EC2BA74461DD4257A4FCE852 /* NSDictionary+ObjectiveSugar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+ObjectiveSugar.m"; path = "Classes/NSDictionary+ObjectiveSugar.m"; sourceTree = "<group>"; };
+		F53C4E3E809E4FCC83C6E83A /* NSArray+ObjectiveSugar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+ObjectiveSugar.h"; path = "Classes/NSArray+ObjectiveSugar.h"; sourceTree = "<group>"; };
+		F5EF02A1DBFA47B18E4ADE45 /* Pods-ObjectiveSugar-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ObjectiveSugar-prefix.pch"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		70251A5510F64E93829FB255 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B038F2FC66B4C12A9607DD2 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		973E27BA4F574632B5D98A14 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				457AC4E7A9414B0F9CC48004 /* Foundation.framework in Frameworks */,
+				A5CA9D6351054BD49FAEA3C0 /* libPods-ObjectiveSugar.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1DEB6F4F51894C078732F361 = {
+			isa = PBXGroup;
+			children = (
+				C8A97023FFAE4D10AE021DB0 /* Podfile */,
+				4697A92974DF4EB0A19C8878 /* Frameworks */,
+				460F0DEEB1EB460490B648A0 /* Pods */,
+				B43F14B48A2A45D89FF931AC /* Products */,
+				E2BD9DD3677C481D997A4293 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		460F0DEEB1EB460490B648A0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				46FFC0D2599E47BE84F07943 /* ObjectiveSugar */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		4697A92974DF4EB0A19C8878 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B7CEB5D0E4B948B2AB43C840 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		46FFC0D2599E47BE84F07943 /* ObjectiveSugar */ = {
+			isa = PBXGroup;
+			children = (
+				F53C4E3E809E4FCC83C6E83A /* NSArray+ObjectiveSugar.h */,
+				B64D5BDA9B7946D48D06A12B /* NSArray+ObjectiveSugar.m */,
+				CBC843B658404EAD89993167 /* NSDictionary+ObjectiveSugar.h */,
+				EC2BA74461DD4257A4FCE852 /* NSDictionary+ObjectiveSugar.m */,
+				B8B4D5876A434BA18601310F /* NSMutableArray+ObjectiveSugar.h */,
+				CB741A32F4624D5E990E4D7F /* NSMutableArray+ObjectiveSugar.m */,
+				638AE09779064694AECA62BF /* NSNumber+ObjectiveSugar.h */,
+				07F8A87A8172458FA4E4214A /* NSNumber+ObjectiveSugar.m */,
+				85E10AF79E704CDE96A2FBDB /* NSSet+ObjectiveSugar.h */,
+				131508574702467B8BDE0EEC /* NSSet+ObjectiveSugar.m */,
+				4FC19E736C4448B785C7E165 /* NSString+ObjectiveSugar.h */,
+				98FD431AC5884425818750E9 /* NSString+ObjectiveSugar.m */,
+				90D43167E30549638AD18DFB /* ObjectiveSugar.h */,
+				D7A556D7CE984A47A8FC6D21 /* Support Files */,
+			);
+			name = ObjectiveSugar;
+			path = ObjectiveSugar;
+			sourceTree = "<group>";
+		};
+		98D0501C13F34130ABC7C13A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A8E7F90403714AF8B8D12DB5 /* Pods.xcconfig */,
+				3A4B70EA622A4509B69A5BF6 /* Pods-acknowledgements.markdown */,
+				61E431BAB8B84C6AAE4E59BA /* Pods-acknowledgements.plist */,
+				3DCC6CDFA4864B198A98A58B /* Pods-dummy.m */,
+				62CA533EBE1241D58B59DD1B /* Pods-environment.h */,
+				2F5F67EE1FA242C6B5929535 /* Pods-resources.sh */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		B43F14B48A2A45D89FF931AC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F34BF58FCB3467EA5A2F513 /* libPods.a */,
+				721CD4D9C4E542FDAB99A787 /* libPods-ObjectiveSugar.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B7CEB5D0E4B948B2AB43C840 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				0B57DF12B5BB44479F94CD6D /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		D7A556D7CE984A47A8FC6D21 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D042EB63A3B147C2A3F1E527 /* Pods-ObjectiveSugar.xcconfig */,
+				8CA0486673F948D1B2F2B323 /* Pods-ObjectiveSugar-Private.xcconfig */,
+				34764F4B8BDC4A9A8579D025 /* Pods-ObjectiveSugar-dummy.m */,
+				F5EF02A1DBFA47B18E4ADE45 /* Pods-ObjectiveSugar-prefix.pch */,
+			);
+			name = "Support Files";
+			sourceTree = SOURCE_ROOT;
+		};
+		E2BD9DD3677C481D997A4293 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				98D0501C13F34130ABC7C13A /* Pods */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		4B1F006A1F2640FCB505C8BB /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61EF1A110FE645B29861C11D /* NSArray+ObjectiveSugar.h in Headers */,
+				8039E2A9A35A4D7B9E3A0767 /* NSDictionary+ObjectiveSugar.h in Headers */,
+				98E701E920544315A50B31F1 /* NSMutableArray+ObjectiveSugar.h in Headers */,
+				C65796794EA84A97869DA301 /* NSNumber+ObjectiveSugar.h in Headers */,
+				0F2AE0B877354DE3B05217F6 /* NSSet+ObjectiveSugar.h in Headers */,
+				9319B0A23D4D434BBBDAD026 /* NSString+ObjectiveSugar.h in Headers */,
+				1A66C8CAA8984F008FB9DDF1 /* ObjectiveSugar.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		5598AE2061E8462E890F99DF /* Pods */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0A74B9007C641059AB5FB2E /* Build configuration list for PBXNativeTarget "Pods" */;
+			buildPhases = (
+				5997A188E88D4329A7B6823E /* Sources */,
+				973E27BA4F574632B5D98A14 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				33A1564E9EA94010A1E81000 /* PBXTargetDependency */,
+			);
+			name = Pods;
+			productName = Pods;
+			productReference = 3F34BF58FCB3467EA5A2F513 /* libPods.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		7AC9DF02C7A04293B0C9FDD4 /* Pods-ObjectiveSugar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52E6CAC93D64400C92DC40CF /* Build configuration list for PBXNativeTarget "Pods-ObjectiveSugar" */;
+			buildPhases = (
+				B36A8B70F7E247E6950B76B6 /* Sources */,
+				70251A5510F64E93829FB255 /* Frameworks */,
+				4B1F006A1F2640FCB505C8BB /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-ObjectiveSugar";
+			productName = "Pods-ObjectiveSugar";
+			productReference = 721CD4D9C4E542FDAB99A787 /* libPods-ObjectiveSugar.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9249543A28C34C30B7E4660A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+			};
+			buildConfigurationList = 9FEE7D58AB7F4F4E8CF84898 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1DEB6F4F51894C078732F361;
+			productRefGroup = B43F14B48A2A45D89FF931AC /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+			);
+			projectRoot = "";
+			targets = (
+				5598AE2061E8462E890F99DF /* Pods */,
+				7AC9DF02C7A04293B0C9FDD4 /* Pods-ObjectiveSugar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5997A188E88D4329A7B6823E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8206102AC1524F668AC390C8 /* Pods-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B36A8B70F7E247E6950B76B6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				934DAA9E92D04BEF9C3E00A5 /* NSArray+ObjectiveSugar.m in Sources */,
+				5EB772E2CB4D49A4BBAF392B /* NSDictionary+ObjectiveSugar.m in Sources */,
+				6A5289B941664BCCB11CA7B1 /* NSMutableArray+ObjectiveSugar.m in Sources */,
+				6EDC1122176C45D4A085E884 /* NSNumber+ObjectiveSugar.m in Sources */,
+				866B097499DD4EA58BC13B06 /* NSSet+ObjectiveSugar.m in Sources */,
+				C11F8238B16241DC98FB3935 /* NSString+ObjectiveSugar.m in Sources */,
+				C3F8A8882EC541B7947EF4BA /* Pods-ObjectiveSugar-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		33A1564E9EA94010A1E81000 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7AC9DF02C7A04293B0C9FDD4 /* Pods-ObjectiveSugar */;
+			targetProxy = 67B40972D70148AA8725C162 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4EE2D1786F9A424AB851B05E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				STRIP_INSTALLED_PRODUCT = NO;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		58AD3FF53AA94502AA54B7DC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8CA0486673F948D1B2F2B323 /* Pods-ObjectiveSugar-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Pods-ObjectiveSugar-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		7F9FCEFDF8294A208D683265 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A8E7F90403714AF8B8D12DB5 /* Pods.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C8522A754FB74241AA2A930F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A8E7F90403714AF8B8D12DB5 /* Pods.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		CC1FC53A5862401784B16ACF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8CA0486673F948D1B2F2B323 /* Pods-ObjectiveSugar-Private.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DSTROOT = /tmp/xcodeproj.dst;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Pods-ObjectiveSugar-prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_CFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DNS_BLOCK_ASSERTIONS=1",
+					"$(inherited)",
+				);
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DBD4402AB7AD4719B75D2762 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52E6CAC93D64400C92DC40CF /* Build configuration list for PBXNativeTarget "Pods-ObjectiveSugar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				58AD3FF53AA94502AA54B7DC /* Debug */,
+				CC1FC53A5862401784B16ACF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9FEE7D58AB7F4F4E8CF84898 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DBD4402AB7AD4719B75D2762 /* Debug */,
+				4EE2D1786F9A424AB851B05E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0A74B9007C641059AB5FB2E /* Build configuration list for PBXNativeTarget "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C8522A754FB74241AA2A930F /* Debug */,
+				7F9FCEFDF8294A208D683265 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9249543A28C34C30B7E4660A /* Project object */;
+}

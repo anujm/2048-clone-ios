@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3439c453-55e5-4b61-a39f-6cbfdc73b38c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/0.imageset/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/0_big.imageset/0_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/1024.imageset/1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/128.imageset/128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/16.imageset/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/16_big.imageset/16_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/2.imageset/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/2048.imageset/2048.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/256.imageset/256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/2_big.imageset/2_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/32.imageset/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/32_big.imageset/32_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/4.imageset/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/4096.imageset/4096.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/4_big.imageset/4_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/512.imageset/512.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/64.imageset/64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/64_big.imageset/64_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/8.imageset/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/8192.imageset/8192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/8_big.imageset/8_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/Untitled.imageset/Untitled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/scorecard.imageset/scorecard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/ANJBlock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/ANJBlock.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/ANJGameBoard.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/ANJGameBoard.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/0.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/0_big.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/1024.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/128.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/16.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/16_big.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/2.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/2048.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/256.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/2_big.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/32.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/32_big.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/4.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/4096.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/4_big.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/512.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/64.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/64_big.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/8.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/8192.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/8_big.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/Untitled.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Images.xcassets/scorecard.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Name.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Name.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game/Model.xcdatamodeld/Model.xcdatamodel/contents" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/game.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Merge.xcodeproj/project.pbxproj" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/game.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/Merge.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/game.xcodeproj/xcuserdata/anujm.xcuserdatad/xcschemes/game.xcscheme" afterPath="$PROJECT_DIR$/Merge.xcodeproj/xcuserdata/anujm.xcuserdatad/xcschemes/game.xcscheme" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/game.xcodeproj/xcuserdata/anujm.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/Merge.xcodeproj/xcuserdata/anujm.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/game/game-Info.plist" afterPath="$PROJECT_DIR$/game/Merge-Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/game/game-Prefix.pch" afterPath="$PROJECT_DIR$/game/Merge-Prefix.pch" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gameTests/gameTests-Info.plist" afterPath="$PROJECT_DIR$/gameTests/MergeTests-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/ANJAppDelegate.h" afterPath="$PROJECT_DIR$/game/ANJAppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/ANJAppDelegate.m" afterPath="$PROJECT_DIR$/game/ANJAppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/ANJMyScene.h" afterPath="$PROJECT_DIR$/game/ANJMyScene.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/ANJMyScene.m" afterPath="$PROJECT_DIR$/game/ANJMyScene.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/ANJViewController.h" afterPath="$PROJECT_DIR$/game/ANJViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/ANJViewController.m" afterPath="$PROJECT_DIR$/game/ANJViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gameTests/gameTests.m" afterPath="$PROJECT_DIR$/gameTests/gameTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/main.m" afterPath="$PROJECT_DIR$/game/main.m" />
+    </list>
+    <ignored path="game.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos" />
+  <component name="FavoritesManager">
+    <favorites_list name="game" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ANJGameBoard.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/ANJGameBoard.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="14" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANJViewController.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/ANJViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="54" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1440">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANJMyScene.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/ANJMyScene.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="29" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/include/time.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="141" column="4" selection-start="5654" selection-end="5654" vertical-scroll-proportion="0.0" vertical-offset="1573" max-vertical-offset="2280">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANJMyScene.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game/ANJMyScene.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="81" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.29985857" vertical-offset="403" max-vertical-offset="1170">
+              <folding>
+                <element signature="e#131#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stdlib.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/include/stdlib.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="242" column="12" selection-start="8603" selection-end="8603" vertical-scroll-proportion="0.0" vertical-offset="3630" max-vertical-offset="4935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANJBlock.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/ANJBlock.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="38" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANJGameBoard.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/ANJGameBoard.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="173" column="4" selection-start="5271" selection-end="5271" vertical-scroll-proportion="0.0" vertical-offset="1918" max-vertical-offset="2955">
+              <folding>
+                <element signature="e#133#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANJBlock.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/ANJBlock.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="25" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/game/ANJMyScene.h" />
+        <option value="$PROJECT_DIR$/game/ANJViewController.h" />
+        <option value="$PROJECT_DIR$/game/ANJViewController.m" />
+        <option value="$PROJECT_DIR$/game/ANJBlock.m" />
+        <option value="$PROJECT_DIR$/game/ANJBlock.h" />
+        <option value="$PROJECT_DIR$/game/ANJGameBoard.m" />
+        <option value="$PROJECT_DIR$/game/ANJGameBoard.h" />
+        <option value="$PROJECT_DIR$/game/ANJMyScene.m" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="804" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObjectiveSugar" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Merge" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Merge" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frameworks" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2.png" />
+    <property name="FullScreen" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="game" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="game" TARGET_NAME="game" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="game" RUN_TARGET_NAME="game" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PROJECT_NAME="game" TARGET_NAME="gameTests" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="game" TARGET_NAME="game" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods-ObjectiveSugar" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Pods-ObjectiveSugar" PROJECT_NAME="Pods" TARGET_NAME="Pods-ObjectiveSugar" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pods" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="Pods" PROJECT_NAME="Pods" TARGET_NAME="Pods" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Pods-ObjectiveSugar" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Pods" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3439c453-55e5-4b61-a39f-6cbfdc73b38c" name="Default" comment="" />
+      <created>1394872099243</created>
+      <updated>1394872099243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="804" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24305555" sideWeight="0.6707819" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/game/ANJViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="54" selection-start="1806" selection-end="1806" vertical-scroll-proportion="0.0" vertical-offset="575" max-vertical-offset="1560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/ANJGameBoard.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="11" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/include/objc/NSObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="6" selection-start="1514" selection-end="1514" vertical-scroll-proportion="0.0" vertical-offset="772" max-vertical-offset="1605" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/2_old.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/ANJBlock.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="38" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/ANJViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="54" selection-start="1469" selection-end="1469" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/ANJBlock.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="25" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="242" column="12" selection-start="8603" selection-end="8603" vertical-scroll-proportion="0.0" vertical-offset="3305" max-vertical-offset="4935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/include/time.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="4" selection-start="5654" selection-end="5654" vertical-scroll-proportion="0.0" vertical-offset="1573" max-vertical-offset="2280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/ANJGameBoard.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="14" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/ANJGameBoard.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="4" selection-start="5271" selection-end="5271" vertical-scroll-proportion="0.0" vertical-offset="1918" max-vertical-offset="2955">
+          <folding>
+            <element signature="e#133#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/ANJMyScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="29" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/ANJMyScene.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="81" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.29985857" vertical-offset="403" max-vertical-offset="1170">
+          <folding>
+            <element signature="e#131#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
